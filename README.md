@@ -1,1 +1,1 @@
-# Yiqian-Ding
+# Python for data science and AI 
